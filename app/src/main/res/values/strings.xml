@@ -1,0 +1,77 @@
+<resources>
+    <string name="app_name">Mata Kuliah</string>
+    <string name="nama_mk">Nama Mata Kuliah</string>
+    <string name="lorem">ini lorem</string>
+
+    <string-array name="data_nama">
+        <item>Pemrograman Mobile</item>
+        <item>GIS</item>
+        <item>Pemrograman Paralel</item>
+        <item>API</item>
+        <item>Grafika Komputer</item>
+        <item>Pemrograman Web</item>
+        <item>Pemrograman Jaringan</item>
+        <item>Keamanan Sistem Komputer</item>
+        <item>Metode Penelitian</item>
+        <item>Kewirausahaan</item>
+    </string-array>
+
+    <string-array name="data_deskripsi">
+        <item>
+            KODE MATA KULIAH	NAMA MATA KULIAH	    SKS	    NAMA DOSEN	DPJ	                            HARI	JAM	            RUANG
+            F09171034	        Pemrograman Mobile	    3	    Dwi Shinta Angraeni, S.Si., M.Kom.	DPJ	    Rabu	07:50 - 10:20	TI 1
+                                                                Jafar Sadik, S.Kom.,M.Ti
+                                                                Fizar Syafaat, S.Kom.,M.Kom
+        </item>
+        <item>
+            Mata kuliah ini mempelajari mengenai pemanfaatan sistem informasi geografis pada pemerintahan,  implementasi  sistem  informasi  geografis  dengan  script  avenue, implementasi sistem informasi geografis dengan web, implementasi sistem informasi geografis dengan mobile devices (Android), dan bidang-bidang aplikasi sistem informasi geografis.
+        </item>
+        <item>
+            Matakuliah ini membahas mengenai konsep dasar komputasi parallels serta teknik pemrograman parallels berbasis .NET. Matakuliah ini disajikan secara teori, penugasan, praktikum, tugas besar dan diskusi. Topik pembahasan Matakuliah ini melingkupi konsep dasar multi-processing dan concurrency, dasar threading dengan pustaka BackgroundWorker, pemrosesan thread lanjut dengan pustaka Thread, penggunaan pustaka thread pooling untuk mengelola kerja thread, pemrosesan thread berbasis pustaka Task Parallel Library yang merupakan pustaka termutakhir untuk pengembangan aplikasi berbasis multithreading pada platform .NET, model pemrograman parallel berbasis task, Operasi parallel terhadap koleksi data dan model pemrograman asynkron.
+        </item>
+        <item>
+            KODE MATA KULIAH	NAMA MATA KULIAH	SKS	        NAMA DOSEN                               HARI	      JAM               RUANG
+            F09171029	            API	             4          Rizka Ardiansyah, S.Kom., M.Kom	DPJ	    Jumat	      13:30 - 16:50	    TI 6
+                                                                Zachira, S.Kom., M.Kom
+                                                                Feishall Reza, S.T.,M.T
+                                                                Kadek Agus Dwi Wijaya, S.T.,MM
+        </item>
+        <item>
+            KODE MATA KULIAH	MATA KULIAH PILIHAN REKAYASA PERANGKAT LUNAK (RPL)	SKS	NAMA DOSEN	DPJ	                        HARI	JAM	            RUANG
+            F09171046	        Grafika Komputer	                                3	Syaiful Hendra, S.Kom., M.Kom.	DPJ	    Rabu	07:50 - 10:20	TI 5
+                                                                                        Zachira, S.Kom., M.Kom
+                                                                                        Ilman Pradhana, S.Kom.,M.Kom
+        </item>
+        <item>
+            Mata kuliah ini mempelajari mengenai pembuatan dan pemanfaatan website pada kehidupan sehari-hari,  implementasi  website  dengan  berbagai macam framework, implementasi website, implementasi website responsive, dan bidang-bidang website lainnya.
+        </item>
+        <item>
+           Matakuliah ini membahas mengenai teknik pengembangan perangkat lunak terdistribusi berbasis socket programming menggunakan Framework .NET. Matakuliah ini disajikan secara teori, penugasan, praktikum, quiz dan diskusi. Topik pembahasan Matakuliah ini melingkupi  pengantar bahasa pemrograman C#, teknik dasar pengembangan applikasi windows berbasis GUI, konsep dasar socket dan socket programming, teknik pengiriman dan penerimaan pesan melalui jalur interkoneksi jaringan komputer, berbagai model pemrograman socket, komunikasi serial, menggabungkan pengenalan sidik jari dengan applikasi .NET, dan teknik pengembangan applikasi yang terintegrasi dengan RFID.
+        </item>
+        <item>
+            Matakuliah ini merupakan mata kuliah wajib untuk Mahasiswa Teknik Informatika (S1) Universitas Tadulako. Matakuliah ini membahas tentang konsep dasar keamanan sistem Komputer, mengapa keamanan penting dalam operasional sistem komputer serta, tiga aspek penting yang merupakan ruang lingkup keamanan sistem komputer, berbagai jenis dan bentuk serangan pada sistem komputer serta teknik antisipasinya. Secara lebih detail pokok bahasan yang akan disajikan selama perkuliahan satu semester adalah Pengantar Keamanan Sistem Komputer, Perangkat Kriptografi, Autentikasi Pengguna, Access Control, Keamanan Database dan Cloud, Malware, Serangan DDOS, Firewall, Buffer Overflow dan Software Security.
+        </item>
+        <item>
+            Teacher: Dr. H. M. Yazdi Pusadan, S.Kom., M.Eng.
+            Teacher: Dr. Ir. Anita Ahmad Kasim. S.Kom. M.Cs
+            Teacher: Dwi Shinta Angreni S.Si.,M.Kom.
+            Teacher: Yusuf Anshori S.T. M.T.
+        </item>
+        <item>
+            Mata kuliah ini merupakan mata kuliah wajib bagi mahasiswa Teknologi Informasi Universitas Tadulakok. Mata kuliah ini membahas tentang bagaimana cara berwirausaha yang benar dan tepat sehingga barang atau jasa yang ditawarkan memiliki keuntungan maksimal.
+        </item>
+    </string-array>
+
+    <array name="data_foto">
+        <item>@drawable/mobile</item>
+        <item>@drawable/gis</item>
+        <item>@drawable/paralel</item>
+        <item>@drawable/api</item>
+        <item>@drawable/grafika</item>
+        <item>@drawable/web</item>
+        <item>@drawable/pbj</item>
+        <item>@drawable/ksk</item>
+        <item>@drawable/metopen</item>
+        <item>@drawable/kwh</item>
+    </array>
+</resources>
